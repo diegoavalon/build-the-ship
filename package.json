@@ -7,6 +7,6 @@
     "start": "parcel index.html"
   },
   "dependencies": {
-    "codemirror": "^5.56.0"
+    "codemirror": "^5.58.2"
   }
 }
